@@ -69,6 +69,12 @@ Convergence Metric: A measure used to determine whether a model has reached a po
 
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/b6459400-8128-412b-8bcd-492c1d859e1b)
 
+The culmination of this project reveals that the implemented GAN models exhibit more than
+mere proficiency in generating synthetic data. They showcase a commendable capacity to
+mirror the nuanced characteristics of the real data distribution. Notable achievements include
+overcoming challenges such as mode collapse and dynamically adapting learning rates during training.
+The analysis of convergence metrics offers valuable insights into the intricate interplay between the generator and discriminator during the adversarial training process.
+
 
 
 
