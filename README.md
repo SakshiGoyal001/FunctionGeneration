@@ -6,8 +6,7 @@ hand addresses this challenge by harnessing the power of Generative Adversarial 
 (GANs) to synthesize realistic data points. The specific focus is on generating synthetic data in
 both 2D and 3D spaces, paving the way for innovative solutions to data scarcity issues.
 
-![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/bac997f7-3223-4947-863f-13920cfee81f)
-
+![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/79a0c891-a87b-4905-8aff-1bb6128a5518)
 
 Proposed Model
 
@@ -17,7 +16,6 @@ indistinguishable from real data, while the discriminator attempts to differenti
 and generated samples. This adversarial training process results in a generator capable of
 producing high-quality synthetic data.
 
-![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/79a0c891-a87b-4905-8aff-1bb6128a5518)
 
 
 Model Architecture:
