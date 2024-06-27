@@ -40,7 +40,7 @@ Results and Comparison
 2D FUNCTION GENERATION
 
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/764b8a3d-1f6b-4241-ac59-2d3e383f988d)
-![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/ce7ad30c-cf26-4680-b1b6-4aaae0abe6d9)
+![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/12d39c0b-a4ac-4ee8-b267-800b8332da25)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/46b36111-aa1f-456e-84bb-fc11b7243a6e)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/4c063cbe-f9e8-4346-9d0a-eace266b70ef)
 
