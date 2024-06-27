@@ -37,11 +37,15 @@ learning rate. Discriminator and generator losses are monitored throughout the t
 
 Results and Comparison
 
+2D FUNCTION GENERATION
+
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/764b8a3d-1f6b-4241-ac59-2d3e383f988d)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/ce7ad30c-cf26-4680-b1b6-4aaae0abe6d9)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/46b36111-aa1f-456e-84bb-fc11b7243a6e)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/4c063cbe-f9e8-4346-9d0a-eace266b70ef)
 
+
+3D FUNCTION GENERATION
 
 
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/1939eda4-f0dd-401f-8976-46da8f6d745a)
