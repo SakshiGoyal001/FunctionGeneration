@@ -43,11 +43,12 @@ Results and Comparison
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/4c063cbe-f9e8-4346-9d0a-eace266b70ef)
 
 
+
+
 3D FUNCTION GENERATION
 
 
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/1939eda4-f0dd-401f-8976-46da8f6d745a)
-![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/2c261ad5-6305-449f-8b60-f8fbf0a6d8e6)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/5075d4ba-8098-4f9e-8a02-1c25f5fac051)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/6a8308ad-6b3a-452e-97d8-c8da976047f3)
 ![image](https://github.com/SakshiGoyal001/FunctionGeneration/assets/100338507/b6459400-8128-412b-8bcd-492c1d859e1b)
